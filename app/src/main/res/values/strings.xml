@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="register">Create Account</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">StorySwap adalah platform media sosial yang sangat populer untuk berbagi foto dan video singkat. Anda dapat mengunggah cerita sementara dengan teks, gambar, video, dan stiker yang menarik.</string>
+    <string name="title_welcome_page">Selamat datang di StorySwap!</string>
+    <string name="title_signup_page">Register.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu yaa!</string>
+    <string name="title_login_page">Login.</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="subtitleTextView">Belum punya akun? Register dulu yaaa!</string>
+
+    <string name="invalidPassword">Password Tidak Boleh Kurang Dari 8 Karakter</string>
+    <string name="invalidEmail">Email Gagal </string>
+    <string name="addStory">add new story</string>
+    <string name="username">Username\n</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="image">image</string>
+    <string name="nameuser">Bagas Julio Nugroho</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload\n</string>
+    <string name="signup">Register</string>
+    <string name="create">Bagas Julio Nugroho | StoryApp 2023</string>
+    <string name="maps">Maps\n</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="normal_type">Normal\n</string>
+    <string name="satellite_type">Satelite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Retry</string>
+    <string name="share_loc">ShareLocation</string>
+
+
+</resources>
